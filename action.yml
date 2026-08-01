@@ -1,0 +1,6 @@
+name: MazterSamzz Demo Action
+description: This action greets persons
+
+runs:
+  using: node24
+  main: src/index.js
