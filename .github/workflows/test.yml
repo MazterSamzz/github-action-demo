@@ -12,3 +12,6 @@ jobs:
         with:
           node-version: 24
       - uses: ./
+      - uses: ./
+        with:
+          person: 'Batman'
