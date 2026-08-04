@@ -8,5 +8,5 @@ build({
 	entryPoints: ['src/index.js'],
 	outfile: 'dist/index.js',
 	target: 'node24',
-	format: 'esm',
+	format: 'cjs',
 }).catch(() => process.exit(1));
