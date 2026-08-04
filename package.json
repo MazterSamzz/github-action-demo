@@ -4,6 +4,7 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
+		"build": "node esbuild.mjs",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"keywords": [],
@@ -11,6 +12,10 @@
 	"license": "MIT",
 	"type": "module",
 	"dependencies": {
-		"@actions/core": "^3.0.1"
+		"@actions/core": "^3.0.1",
+		"esbuild": "^0.28.1"
+	},
+	"allowScripts": {
+		"esbuild@0.28.1": true
 	}
 }
