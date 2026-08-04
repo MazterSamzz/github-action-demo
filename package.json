@@ -10,7 +10,7 @@
 	"keywords": [],
 	"author": "",
 	"license": "MIT",
-	"type": "module",
+	"type": "commonjs",
 	"dependencies": {
 		"@actions/core": "^3.0.1",
 		"esbuild": "^0.28.1"
