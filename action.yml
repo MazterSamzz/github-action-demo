@@ -10,3 +10,8 @@ inputs:
 runs:
   using: node24
   main: dist/index.js
+
+# https://actions-cool.github.io/github-action-branding/
+branding:
+  icon: 'crosshair'
+  color: 'blue'
