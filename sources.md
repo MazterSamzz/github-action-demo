@@ -1,3 +1,3 @@
 # Tutorial Github Action Semantic Release
 
-[Go to video](https://www.youtube.com/watch?v=hhKhjzW1Mjk)
+This tutorial is based on this [video tutorial](https://www.youtube.com/watch?v=hhKhjzW1Mjk) created by [Dave's Dev Channel](https://www.youtube.com/@davelosert).
